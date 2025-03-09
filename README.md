@@ -10,6 +10,13 @@
 ## WakaTime
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown         51 mins         ████████████████████████░   95.53 %
+YAML             2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Skills
