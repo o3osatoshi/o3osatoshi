@@ -1,5 +1,5 @@
 ## Domains
-`Frontend` `0 to 1` `Web3` `DeFi` `CRM`
+`Frontend` `0 to 1` `Crypto` `DeFi` `CRM`
 
 ## Skills
 
