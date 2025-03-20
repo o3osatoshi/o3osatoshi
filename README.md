@@ -1,3 +1,17 @@
+## Domains
+Frontend, 0 to 1, Web3, DeFi, CRM
+
+## Skills
+
+[![Skills](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,graphql,vercel,firebase,sentry,webstorm)](https://skillicons.dev)
+
+## Fav Libraries
+`zod` `neverthrow` `cva` `tailwind-merge` `dayjs` `zustand` `wagmi` `viem` `react-firebase-hooks`
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=o3osatoshi&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -6,14 +20,6 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="top" src="https://github-readme-stats-rho-blond-52.vercel.app/api/top-langs?username=o3osatoshi&theme=apprentice&hide=ruby,scss,shell" />
 </a>
-
-## Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=o3osatoshi&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Skills
-
-[![Skills](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,graphql,vercel,firebase,sentry,webstorm)](https://skillicons.dev)
 
 ## WakaTime
 
