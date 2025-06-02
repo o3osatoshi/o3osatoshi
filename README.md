@@ -26,11 +26,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     4 hrs 4 mins    ██████████████████████░░░   88.30 %
-Other        31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-.env file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown   1 hr 8 mins     ████████████████▒░░░░░░░░   65.78 %
+Other      35 mins         ████████▓░░░░░░░░░░░░░░░░   34.22 %
 ```
 
 <!--END_SECTION:waka-->
