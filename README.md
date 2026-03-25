@@ -8,10 +8,6 @@
 ## Fav Libraries
 `zod` `neverthrow` `cva` `tailwind-merge` `dayjs` `zustand` `wagmi` `viem` `react-firebase-hooks`
 
-## Highlights
-
-`0 to 1 shipping` `TypeScript-first` `Frontend architecture` `DeFi / CRM` `DX / Observability`
-
 ## GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
