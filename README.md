@@ -8,16 +8,16 @@
 ## Fav Libraries
 `zod` `neverthrow` `cva` `tailwind-merge` `dayjs` `zustand` `wagmi` `viem` `react-firebase-hooks`
 
-## Trophies
+## Highlights
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=o3osatoshi&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
+`0 to 1 shipping` `TypeScript-first` `Frontend architecture` `DeFi / CRM` `DX / Observability`
 
 ## GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats-rho-blond-52.vercel.app/api?username=o3osatoshi&theme=apprentice&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats-rho-blond-52.vercel.app/api/top-langs?username=o3osatoshi&theme=apprentice&hide=ruby,scss,shell" />
 </a>
 
