@@ -22,8 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Image (svg)   0 secs                ████████████████████░░░░░   79.57 %
-Other         0 secs                █████░░░░░░░░░░░░░░░░░░░░   20.43 %
+Other   3 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
